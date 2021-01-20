@@ -1,0 +1,7 @@
+name: bob
+score: 89
+score: 100
+score: 40
+score: 23
+total: 23
+average: 84.0
